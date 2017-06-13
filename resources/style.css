@@ -102,20 +102,17 @@ nav
 
 .tuna{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
-  display: flex;
+  font-size: 40px;
 }
 
 .earth{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
-  display: flex;
 }
 
 .research{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
-  display: flex;
 }
 
 .cats{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
-  display: flex;
 }
