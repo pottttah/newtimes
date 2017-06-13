@@ -71,7 +71,18 @@ nav
 .story{
   display:block;
   border: 1px solid black;
+}
 
+.bites{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.bitelist{
+  background-color: WhiteSmoke;
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
 }
 
 .title{
